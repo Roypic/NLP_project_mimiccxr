@@ -1,0 +1,559 @@
+[
+  {
+    "text": "The lungs are otherwise clear with no evidence of focal opacities concerning for infectious process.",
+    "spacy_entities": []
+  },
+  {
+    "text": "Right PICC line again extends to the cavoatrial junction.",
+    "spacy_entities": []
+  },
+  {
+    "text": "Streaky opacity at the left lung base thought likely atelectatic in etiology.",
+    "spacy_entities": [
+      [
+        "Streaky",
+        0,
+        7,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "text": "No effusion or pneumothorax.",
+    "spacy_entities": []
+  },
+  {
+    "text": "There is mild obscuration of the right cardiac border, however, no definite densities are appreciated on the lateral view.",
+    "spacy_entities": []
+  },
+  {
+    "text": "Patchy nodular opacities projecting over the lateral left lower lung may be due to pneumonia.",
+    "spacy_entities": []
+  },
+  {
+    "text": "This abnormality is accompanied by greater atelectasis in the right upper lobe where a large mass was seen previously, and obscures the contours of the heart, right hilus and mediastinum.",
+    "spacy_entities": []
+  },
+  {
+    "text": "Comparison is made to the prior radiographs from nine hours earlier.",
+    "spacy_entities": [
+      [
+        "Comparison",
+        0,
+        10,
+        "ORG"
+      ],
+      [
+        "nine hours earlier",
+        49,
+        67,
+        "TIME"
+      ]
+    ]
+  },
+  {
+    "text": "There is no pneumothorax or pleural effusion.",
+    "spacy_entities": []
+  },
+  {
+    "text": "The cardiac and mediastinal silhouettes are unremarkable.",
+    "spacy_entities": []
+  },
+  {
+    "text": "There is no pneumothorax.",
+    "spacy_entities": []
+  },
+  {
+    "text": "The cardiac, mediastinal and hilar contours are normal.",
+    "spacy_entities": []
+  },
+  {
+    "text": "Patient has had median sternotomy and aortic valve replacement.",
+    "spacy_entities": []
+  },
+  {
+    "text": "There is bibasilar atelectasis.",
+    "spacy_entities": []
+  },
+  {
+    "text": "No focal consolidation, pleural effusion or pneumothorax is identified.",
+    "spacy_entities": []
+  },
+  {
+    "text": "There are persistent small bilateral pleural effusions which are relatively unchanged since the ___.",
+    "spacy_entities": []
+  },
+  {
+    "text": "The heart size is at the upper limits of normal.",
+    "spacy_entities": []
+  },
+  {
+    "text": "No acute cardiopulmonary process.",
+    "spacy_entities": []
+  },
+  {
+    "text": "Right internal jugular line ends in the region of the superior cavoatrial junction.",
+    "spacy_entities": []
+  },
+  {
+    "text": "No focal consolidation, pleural effusion, or evidence of pneumothorax is seen.",
+    "spacy_entities": []
+  },
+  {
+    "text": "Mild streak of atelectasis is again seen at the left base.",
+    "spacy_entities": []
+  },
+  {
+    "text": "Additionally, a small right pleural effusion is noted.",
+    "spacy_entities": []
+  },
+  {
+    "text": "Intra-aortic balloon pump tip is projecting approximately 3.8 cm below the roof of the aortic arch.",
+    "spacy_entities": [
+      [
+        "Intra",
+        0,
+        5,
+        "NORP"
+      ],
+      [
+        "approximately 3.8 cm",
+        44,
+        64,
+        "QUANTITY"
+      ]
+    ]
+  },
+  {
+    "text": "Monitoring and support devices remain in place.",
+    "spacy_entities": []
+  },
+  {
+    "text": "The lungs are clear without consolidation or edema.",
+    "spacy_entities": []
+  },
+  {
+    "text": "In comparison with the study of ___, there again are low lung volumes that accentuate the prominence of the transverse diameter of the heart.",
+    "spacy_entities": []
+  },
+  {
+    "text": "Marked cardiomegaly is unchanged, but pulmonary vascular congestion has improved, and previously described edema has nearly completely resolved.",
+    "spacy_entities": []
+  },
+  {
+    "text": "The cardiomediastinal silhouette is normal.",
+    "spacy_entities": []
+  },
+  {
+    "text": "Left hilar prominence may be a normal findings in a patient of this age.",
+    "spacy_entities": []
+  },
+  {
+    "text": "Repeat after treatment to document resolution.",
+    "spacy_entities": []
+  },
+  {
+    "text": "The aorta is unfolded.",
+    "spacy_entities": []
+  },
+  {
+    "text": "Increasing confluent right basilar opacity may reflect asymmetrical edema or secondary process such as aspiration or infection.",
+    "spacy_entities": []
+  },
+  {
+    "text": "Compared to the prior radiograph, the right IJ line and NG tube have been removed.",
+    "spacy_entities": [
+      [
+        "NG",
+        56,
+        58,
+        "ORG"
+      ]
+    ]
+  },
+  {
+    "text": "Heart size is top- normal.",
+    "spacy_entities": []
+  },
+  {
+    "text": "Given the acute fluctuations, findings favor mild interstitial edema rather than an infectious process.",
+    "spacy_entities": []
+  },
+  {
+    "text": "No acute cardiopulmonary process.",
+    "spacy_entities": []
+  },
+  {
+    "text": "The apperance of the distal left clavicle is stable.",
+    "spacy_entities": []
+  },
+  {
+    "text": "Cardiac and mediastinal silhouettes are unremarkable.",
+    "spacy_entities": [
+      [
+        "Cardiac",
+        0,
+        7,
+        "ORG"
+      ]
+    ]
+  },
+  {
+    "text": "Pleural effusions are presumed, but not substantial.",
+    "spacy_entities": [
+      [
+        "Pleural",
+        0,
+        7,
+        "GPE"
+      ]
+    ]
+  },
+  {
+    "text": "No pleural effusion or pneumothorax.",
+    "spacy_entities": []
+  },
+  {
+    "text": "2. Mild pulmonary edema.",
+    "spacy_entities": [
+      [
+        "2",
+        0,
+        1,
+        "CARDINAL"
+      ]
+    ]
+  },
+  {
+    "text": "As compared to ___, there is low lung volumes with marked elevation of the right hemidiaphragm.",
+    "spacy_entities": []
+  },
+  {
+    "text": "Frontal and lateral views of the chest were obtained.",
+    "spacy_entities": []
+  },
+  {
+    "text": "Aside from mild crowding of vessels at the bases, lungs are clear.",
+    "spacy_entities": []
+  },
+  {
+    "text": "No pulmonary nodules are identified within the limits of conventional radiography.",
+    "spacy_entities": []
+  },
+  {
+    "text": "Cardiomediastinal silhouette is unremarkable.",
+    "spacy_entities": []
+  },
+  {
+    "text": "No free air below the right hemidiaphragm.",
+    "spacy_entities": []
+  },
+  {
+    "text": "2. Enlarged pulmonary arteries are suspicious for pulmonary hypertension.",
+    "spacy_entities": [
+      [
+        "2",
+        0,
+        1,
+        "CARDINAL"
+      ]
+    ]
+  },
+  {
+    "text": "The heart size is normal.",
+    "spacy_entities": []
+  },
+  {
+    "text": "The cardiac silhouette is mildly enlarged with left ventricular configuration.",
+    "spacy_entities": []
+  },
+  {
+    "text": "Cardiomediastinal and hilar contours are unremarkable.",
+    "spacy_entities": []
+  },
+  {
+    "text": "Imaged osseous structures are intact.",
+    "spacy_entities": []
+  },
+  {
+    "text": "pleural fluid or area of consolidation.",
+    "spacy_entities": [
+      [
+        "pleural fluid",
+        0,
+        13,
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "text": "No pleural effusion or pneumothorax is present.",
+    "spacy_entities": []
+  },
+  {
+    "text": "Dual channel pacer device remains in place with leads in appropriate positions.",
+    "spacy_entities": []
+  },
+  {
+    "text": "Shallow inspiration.",
+    "spacy_entities": []
+  },
+  {
+    "text": "There is no cardiomegaly.",
+    "spacy_entities": []
+  },
+  {
+    "text": "Linear and streaky opacities in the lung bases appear relatively unchanged compared to the previous exam with minimal increased atelectasis noted at the right lung base.",
+    "spacy_entities": [
+      [
+        "Linear",
+        0,
+        6,
+        "ORG"
+      ]
+    ]
+  },
+  {
+    "text": "Known lytic lesion involving the right fourth anterior rib has been more fully characterized on recent CTA.",
+    "spacy_entities": [
+      [
+        "fourth",
+        39,
+        45,
+        "ORDINAL"
+      ],
+      [
+        "CTA",
+        103,
+        106,
+        "ORG"
+      ]
+    ]
+  },
+  {
+    "text": "No other relevant changes.",
+    "spacy_entities": []
+  },
+  {
+    "text": "The endotracheal tube lies 3 cm from the carinal angle.",
+    "spacy_entities": [
+      [
+        "3 cm",
+        27,
+        31,
+        "QUANTITY"
+      ]
+    ]
+  },
+  {
+    "text": "No consolidation or pneumothorax is evident.",
+    "spacy_entities": []
+  },
+  {
+    "text": "Cardiac size is normal.",
+    "spacy_entities": [
+      [
+        "Cardiac",
+        0,
+        7,
+        "ORG"
+      ]
+    ]
+  },
+  {
+    "text": "No free air below the right hemidiaphragm is seen.",
+    "spacy_entities": []
+  },
+  {
+    "text": "The cardiomediastinal and hilar contours are within normal limits.",
+    "spacy_entities": []
+  },
+  {
+    "text": "The cardiomediastinal silhouette is normal.",
+    "spacy_entities": []
+  },
+  {
+    "text": "In comparison with study of ___, there is again enlargement of the cardiac silhouette with pulmonary edema and substantial bilateral pleural effusions with compressive atelectasis at the bases.",
+    "spacy_entities": []
+  },
+  {
+    "text": "No pneumothorax.",
+    "spacy_entities": []
+  },
+  {
+    "text": "Pectus deformity results in hazy increased opacity adjacent to the right heart border on the frontal radiograph.",
+    "spacy_entities": []
+  },
+  {
+    "text": "Again, in the endotracheal tube lies close to the carina and can be retracted by approximately 2 cm.",
+    "spacy_entities": [
+      [
+        "approximately 2 cm",
+        81,
+        99,
+        "QUANTITY"
+      ]
+    ]
+  },
+  {
+    "text": "No focal consolidation, pleural effusion, pulmonary vascular congestion or pneumothorax.",
+    "spacy_entities": []
+  },
+  {
+    "text": "There is a chest wall port with its catheter terminating at the cavoatrial junction.",
+    "spacy_entities": []
+  },
+  {
+    "text": "Atherosclerotic calcifications are noted within the aortic arch.",
+    "spacy_entities": []
+  },
+  {
+    "text": "Finding were reported to PCP by Dr. ___ at 11.___ am.",
+    "spacy_entities": [
+      [
+        "PCP",
+        25,
+        28,
+        "ORG"
+      ],
+      [
+        "11",
+        43,
+        45,
+        "CARDINAL"
+      ]
+    ]
+  },
+  {
+    "text": "Right PICC tip projects over the mid SVC.",
+    "spacy_entities": [
+      [
+        "SVC",
+        37,
+        40,
+        "ORG"
+      ]
+    ]
+  },
+  {
+    "text": "There is no pleural effusion or pneumothorax.",
+    "spacy_entities": []
+  },
+  {
+    "text": "There is abnormal soft tissue density abutting the right side of the mediastinum concerning for underlying mass and probable right paratracheal and hilar adenopathy.",
+    "spacy_entities": []
+  },
+  {
+    "text": "Continued enlargement of the cardiac silhouette with mild vascular congestion.",
+    "spacy_entities": []
+  },
+  {
+    "text": "Extensive biapical pleural scarring is again noted.",
+    "spacy_entities": []
+  },
+  {
+    "text": "No acute cardiopulmonary process.",
+    "spacy_entities": []
+  },
+  {
+    "text": "A right PICC terminates in the right atrium.",
+    "spacy_entities": []
+  },
+  {
+    "text": "In comparison to ___ chest radiograph, the heart size remains normal an the lungs are clear.",
+    "spacy_entities": []
+  },
+  {
+    "text": "No pleural effusion or pneumothorax is seen.",
+    "spacy_entities": []
+  },
+  {
+    "text": "No acute intrathoracic process.",
+    "spacy_entities": []
+  },
+  {
+    "text": "The bones are intact.",
+    "spacy_entities": []
+  },
+  {
+    "text": "The lungs remain clear.",
+    "spacy_entities": []
+  },
+  {
+    "text": "The pleural surfaces are normal without effusion or pneumothorax.",
+    "spacy_entities": []
+  },
+  {
+    "text": "There is no pneumothorax.",
+    "spacy_entities": []
+  },
+  {
+    "text": "The mediastinal and hilar contours appear within normal limits.",
+    "spacy_entities": []
+  },
+  {
+    "text": "No acute cardiopulmonary process.",
+    "spacy_entities": []
+  },
+  {
+    "text": "No pneumothorax, pneumonia, pulmonary edema, or pleural effusion.",
+    "spacy_entities": []
+  },
+  {
+    "text": "Cardiomediastinal silhouette is difficult to accurately assess.",
+    "spacy_entities": []
+  },
+  {
+    "text": "There are 2 subcentimeter rounded opacities seen in the left mid lung, which may have been present on the prior radiograph.",
+    "spacy_entities": [
+      [
+        "2",
+        10,
+        11,
+        "CARDINAL"
+      ]
+    ]
+  },
+  {
+    "text": "No larger pleural effusions.",
+    "spacy_entities": []
+  },
+  {
+    "text": "Mild tortuosity of the thoracic aorta.",
+    "spacy_entities": []
+  },
+  {
+    "text": "The upper thoracic spine is obscured by the patient's shoulders but the remaining visualized thoracic levels normal vertebral heights, disc spaces and alignment.",
+    "spacy_entities": []
+  },
+  {
+    "text": "But 2 right-sided chest tubes are again visualized.",
+    "spacy_entities": [
+      [
+        "2",
+        4,
+        5,
+        "CARDINAL"
+      ]
+    ]
+  },
+  {
+    "text": "The patient has bilateral air inclusions in the soft tissues of the nephrectomy but no pneumothorax is visible.",
+    "spacy_entities": []
+  },
+  {
+    "text": "The lungs are moderately well inflated with unchanged left lower lobe linear atelectasis and a small left pleural effusion.",
+    "spacy_entities": [
+      [
+        "linear",
+        70,
+        76,
+        "ORG"
+      ]
+    ]
+  },
+  {
+    "text": "A right-sided pleural effusion is not significantly changed in size.",
+    "spacy_entities": []
+  }
+]
