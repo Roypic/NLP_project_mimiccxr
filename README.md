@@ -56,8 +56,8 @@ These files contain annotated NER labels corresponding to the sentence chunk tex
 
 ## Contributors
 
-Haozhe Luo
-Daunibe
-Lucas Vizzotto de Castro
+Haozhe Luo,
+Daunibe,
+Lucas Vizzotto de Castro,
 Bazgh
 
