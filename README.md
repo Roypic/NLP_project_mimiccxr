@@ -54,10 +54,6 @@ These files contain annotated NER labels corresponding to the sentence chunk tex
 * `ner_model/`: Directory for storing trained NER models.
 * `NLP_project_2.pdf`: Project description or final report.
 
-## Notes
-
-This repository is intended for academic and experimental use.
-
 ## Contributors
 
 Haozhe Luo
