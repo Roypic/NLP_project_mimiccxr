@@ -10,7 +10,7 @@ This repository contains code, data, and experiments for a Named Entity Recognit
 * `Encoder_model.ipynb`: Experiments with encoder/BERT-based NER models.
 * `ner_spacy.ipynb`: Training and evaluation of spaCy NER models.
 * `llm_ner_classifier_notebook.ipynb`: NER or entity classification using large language models.
-* `classical_and_decoder.ipynb`: Experiments with classical baseline (LinearSVC) and Decoder models.
+* `classical-and-decoder.ipynb`: Experiments with classical baseline (LinearSVC) and Decoder models.
 
 ### Python Scripts
 
