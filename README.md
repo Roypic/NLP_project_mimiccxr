@@ -1,6 +1,6 @@
 # Named Entity Recognition Project
 
-This repository contains code, data, and experiments for a Named Entity Recognition (NER) project developed for an NLP course. It includes spaCy-based models, BERT-based models, and exploratory experiments with large language models.
+This repository contains code, data, and experiments for a Named Entity Recognition (NER) project developed for NLP course (Fall 2026) at the University of Bern. It includes spaCy-based models, BERT-based models, and exploratory experiments with large language models.
 
 ## Files and Directories
 
